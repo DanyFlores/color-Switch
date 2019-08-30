@@ -12,6 +12,7 @@ TagManager:
   - Base
   - Scored
   - BaseR
+  - Destroyer
   layers:
   - Default
   - TransparentFX
